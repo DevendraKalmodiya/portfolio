@@ -366,27 +366,27 @@ section{
 }
 
 .progress-line.html span{
-    width: 60%; 
+    width: 80%;
 }
 
 .progress-line.javascript span{
-    width: 30%; 
+    width: 60%;
 }
 
-.progress-line.cpp span{
+.progress-line.SpringBoot span{
     width: 75%; 
 }
 
-.progress-line.python span{
+.progress-line.SQL span{
     width: 70%; 
 }
 
 .progress-line.dsa span{
-    width: 50%; 
+    width: 70%;
 }
 
 .progress-line.java span{
-    width: 60%; 
+    width: 80%;
 }
 
 .progress-line span::after{
@@ -404,27 +404,27 @@ section{
 }
 
 .progress-line.html span::after{
-    content: "60%";
+    content: "80%";
 }
 
 .progress-line.javascript span::after{
-    content: "30%";
+    content: "60%";
 }
 
-.progress-line.cpp span::after{
+.progress-line.SpringBoot span::after{
     content: "75%";
 }
 
-.progress-line.python span::after{
+.progress-line.SQL span::after{
     content: "70%";
 }
 
 .progress-line.dsa span::after{
-    content: "50%";
+    content: "70%";
 }
 
 .progress-line.java span::after{
-    content: "60%";
+    content: "80%";
 }
 
 .progress-line span::before{
